@@ -131,4 +131,3 @@ def reset_game():
     generate_new_number(board)
     generate_new_number(board)
     return board, game_over, game_won
-
